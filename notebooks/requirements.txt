@@ -1,0 +1,24 @@
+pyodbc==4.0.39  ------> SQL Server database connection
+pandas==2.1.4   ------> Data manipulation and analysis
+numpy==1.24.3   ------> Numerical operations
+sqlalchemy
+
+- GUI Framework
+PyQt5==5.15.10  ------> Main GUI framework
+PyQt5-sip==12.13.0 ------> Required for PyQt5
+PyQt5-Qt5==5.15.2 ------> Qt5 bindings
+
+- Data Visualization
+matplotlib==3.8.0 ------> Charts and graphs
+
+- Optional (already included in some distributions)
+python-dateutil==2.8.2 ------> Date parsing
+pytz==2023.3 ------>Timezone support
+six==1.16.0 ------> Python 2/3 compatibility
+
+
+ODBC Driver 18 for SQL Server
+Microsoft Access Database Engine (optionnel)
+
+Python 3.8+
+Windows 10/11 (recommandé)
